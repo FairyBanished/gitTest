@@ -8,4 +8,8 @@ public class EmployeeController{
 		return "status";
 	}
 	
+	public int deleteEmployee(){
+		return 0;
+	}
+	
 }
