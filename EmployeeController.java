@@ -4,4 +4,8 @@ public class EmployeeController{
 		return "emplist";
 	}
 	
+	public int updateEmployee(){
+		return "status";
+	}
+	
 }
