@@ -11,5 +11,7 @@ public class EmployeeController{
 	public int deleteEmployee(){
 		return 0;
 	}
+
+	public void select(){}
 	
 }
